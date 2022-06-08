@@ -1,0 +1,3 @@
+﻿  Renderer.cpp
+C:\Users\Saral\source\repos\3GPModelLoading\ThreeGPStart\Renderer.cpp(106,39): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  ThreeGPStart.vcxproj -> C:\Users\Saral\source\repos\3GPModelLoading\x64\Debug\ThreeGPStart.exe
